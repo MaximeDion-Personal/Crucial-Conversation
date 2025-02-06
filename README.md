@@ -1,4 +1,5 @@
 # Crucial Conversation
+by: by Kerry Patterson (Author), Joseph Grenny (Author), Ron McMillan (Author), Al Switzler (Author)
 
 ## Elements of a crucial conversation
 
